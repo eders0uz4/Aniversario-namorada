@@ -1,3 +1,2 @@
-PARABENS PARA O MEU ETERNO AMOR
+git init
 
-cd /caminho/para/pasta-do-seu-site
